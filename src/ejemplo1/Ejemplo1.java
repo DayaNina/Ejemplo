@@ -16,8 +16,10 @@ public class Ejemplo1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    System.out.println("hola mundo");
+    
     System.out.println("Hola dayana");
+     System.out.println("Hola......");
+    
     }
     
 }
